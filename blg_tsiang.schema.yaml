@@ -176,7 +176,7 @@ recognizer:
 style:
   display_tray_icon: false
   font_face: "Microsoft Jhenghei"
-  font_point: 12
+  font_point: 24
   fullscreen: false
   horizontal: true
   inline_preedit: false

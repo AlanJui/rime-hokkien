@@ -31,6 +31,8 @@ name: banlam
 version: "1.6"
 sort: by_weight
 use_preset_vocabulary: false
+import_tables:
+  - nga_siok_thang_tai_lo
 ...
 ##	a/ah
 啊	a0
